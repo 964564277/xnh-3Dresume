@@ -83,7 +83,7 @@ export function createWorld() {
 // 地图中的旋转粒子堆
 export function glowingParticles() {
   var particleTextureLoader = new THREE.TextureLoader(manager);
-  var particleTexture = particleTextureLoader.load('../src/jsm/spark.png');
+  var particleTexture = particleTextureLoader.load('./src/jsm/spark.png');
 
   particleGroup = new THREE.Object3D();
   particleGroup.position.x = -1;
