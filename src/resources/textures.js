@@ -10,21 +10,21 @@ billboardTextures.fundTexture =
 
 let boxTexture = {};
 // 链接的图标地址
-boxTexture.Blog = '../src/jsm/githubLogo.png';
-boxTexture.BiliBili = '../src/jsm/BiliBili.png';
-boxTexture.WeChat= '../src/jsm/wx.png';
-boxTexture.QQ = '../src/jsm/qq.png';
-boxTexture.mail = '../src/jsm/envelope.png';
-boxTexture.reactIcon = '../src/jsm/react.png';
-boxTexture.allSkills = '../src/jsm/allSkills.png';
-boxTexture.lensFlareMain = '../src/jsm/lensflare0.png';
-boxTexture.skrillex = '../src/jsm/skrillex.png';
-boxTexture.edmText = '../src/jsm/EDM.png';
+boxTexture.Blog = 'xnh-3Dresume/src/jsm/githubLogo.png';
+boxTexture.BiliBili = 'xnh-3Dresume/src/jsm/BiliBili.png';
+boxTexture.WeChat= 'xnh-3Dresume/src/jsm/wx.png';
+boxTexture.QQ = 'xnh-3Dresume/src/jsm/qq.png';
+boxTexture.mail = 'xnh-3Dresume/src/jsm/envelope.png';
+boxTexture.reactIcon = 'xnh-3Dresume/src/jsm/react.png';
+boxTexture.allSkills = 'xnh-3Dresume/src/jsm/allSkills.png';
+boxTexture.lensFlareMain = 'xnh-3Dresume/src/jsm/lensflare0.png';
+boxTexture.skrillex = 'xnh-3Dresume/src/jsm/skrillex.png';
+boxTexture.edmText = 'xnh-3Dresume/src/jsm/EDM.png';
 
 // 砖块材质
-let stoneTexture = '../src/jsm/stone.png';
+let stoneTexture = 'xnh-3Dresume/src/jsm/stone.png';
 // 展板木头材质
-let woodTexture = '../src/jsm/woodTexture.jpg';
+let woodTexture = 'xnh-3Dresume/src/jsm/woodTexture.jpg';
 
 // 文字图片地址
 let inputText = {};
