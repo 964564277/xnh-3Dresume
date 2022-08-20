@@ -1,12 +1,12 @@
 let billboardTextures = {};
 // 第一块展板图片地址
-billboardTextures.blogTexture = '../src/jsm/blog.png';
+billboardTextures.blogTexture = 'https://964564277.github.io/xnh-3Dresume/src/jsm/blog.png';
 // 第二块展板图片地址
 billboardTextures.musicTexture =
-  '../src/jsm/music.png';
+  'https://964564277.github.io/xnh-3Dresume/src/jsm/music.png';
 // 第三块展板图片地址
 billboardTextures.fundTexture =
-  '../src/jsm/fund.png';
+  'https://964564277.github.io/xnh-3Dresume/src/jsm/fund.png';
 
 let boxTexture = {};
 // 链接的图标地址
