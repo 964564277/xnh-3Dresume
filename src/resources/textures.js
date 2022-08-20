@@ -43,15 +43,18 @@ SVG.reactLogo = './src/jsm/react-svg.svg';
 
 // 链接的跳转地址
 let URL = {};
-URL.blog =
-  'https://huabyte.com';
-URL.ryanfloyd = 'https://huabyte.com';
-URL.fund = 'https://github.com/AirHua-byte/FundSpider';
+URL.blog ='';
+// URL.blog ='https://huabyte.com';
+URL.ryanfloyd = '';
+// URL.ryanfloyd = 'https://huabyte.com';
+URL.fund = '';
+// URL.fund = 'https://github.com/AirHua-byte/FundSpider';
 URL.gitHub = 'https://github.com/AirHua-byte';
 URL.Blog = 'https://coding-pages-bucket-3538415-8700137-16587-586148-1305301733.cos-website.ap-guangzhou.myqcloud.com/';
 URL.BiliBili = 'https://space.bilibili.com/450443708';
 URL.email = 'https://964564277@qq.com';
-URL.music = 'https://music.huabyte.com';
+URL.music = '';
+// URL.music = 'https://music.huabyte.com';
 // URL.devTo =
 //   'http://wpa.qq.com/msgrd?V=1&Uin=964564277&Site=在线咨询&Menu=yes';
 URL.devTo =
