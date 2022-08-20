@@ -6,7 +6,7 @@ module.exports = {
     app: ['@babel/polyfill', './src/app.js']
   },
   output: {
-     publicPath:"/xnh-3Dresume/" ,
+    publicPath:"/xnh-3Dresume/" ,
     path: path.resolve(__dirname, 'build'),
     filename: 'app.bundle.js'
   },
