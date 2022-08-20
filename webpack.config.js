@@ -6,11 +6,10 @@ module.exports = {
     app: ['@babel/polyfill', './src/app.js']
   },
   output: {
-    path: path.join(__dirname, 'dist'),
-		filename: 'bundle.js'
+    path: path.resolve(__dirname, 'build'),
+    filename: 'app.bundle.js'
   },
-  
-  mode: 'development',
+
   module: {
     rules: [
       // 处理js文件

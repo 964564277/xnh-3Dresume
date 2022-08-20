@@ -231,7 +231,7 @@ Ammo().then((Ammo) => {
     let radius = 2;
     let quat = { x: 0, y: 0, z: 0, w: 1 };
     let mass = 20;
-
+ 
     //import beach ball texture
     var texture_loader = new THREE.TextureLoader(manager);
     var beachTexture = texture_loader.load('./src/jsm/BeachBallColor.jpg');
