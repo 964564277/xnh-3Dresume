@@ -10,32 +10,32 @@ billboardTextures.fundTexture =
 
 let boxTexture = {};
 // 链接的图标地址
-boxTexture.Blog = '   xnh-3Dresume/src/jsm/githubLogo.png';
-boxTexture.BiliBili = '   xnh-3Dresume/src/jsm/BiliBili.png';
-boxTexture.WeChat= '   xnh-3Dresume/src/jsm/wx.png';
-boxTexture.QQ = '   xnh-3Dresume/src/jsm/qq.png';
-boxTexture.mail = '   xnh-3Dresume/src/jsm/envelope.png';
-boxTexture.reactIcon = '   xnh-3Dresume/src/jsm/react.png';
-boxTexture.allSkills = '   xnh-3Dresume/src/jsm/allSkills.png';
-boxTexture.lensFlareMain = '   xnh-3Dresume/src/jsm/lensflare0.png';
-boxTexture.skrillex = 'src/jsm/skrillex.png';
-boxTexture.edmText = '/src/jsm/EDM.png';
+boxTexture.Blog = 'https://964564277.github.io/xnh-3Dresume/src/jsm/githubLogo.png';
+boxTexture.BiliBili = 'https://964564277.github.io/xnh-3Dresume/src/jsm/BiliBili.png';
+boxTexture.WeChat= 'https://964564277.github.io/xnh-3Dresume/src/jsm/wx.png';
+boxTexture.QQ = 'https://964564277.github.io/xnh-3Dresume/src/jsm/qq.png';
+boxTexture.mail = 'https://964564277.github.io/xnh-3Dresume/src/jsm/envelope.png';
+boxTexture.reactIcon = 'https://964564277.github.io/xnh-3Dresume/src/jsm/react.png';
+boxTexture.allSkills = 'https://964564277.github.io/xnh-3Dresume/src/jsm/allSkills.png';
+boxTexture.lensFlareMain = 'https://964564277.github.io/xnh-3Dresume/src/jsm/lensflare0.png';
+boxTexture.skrillex = 'https://964564277.github.io/xnh-3Dresume/src/jsm/skrillex.png';
+boxTexture.edmText = 'https://964564277.github.io/xnh-3Dresume/src/jsm/EDM.png';
 
 // 砖块材质
-let stoneTexture = './src/jsm/stone.png';
+let stoneTexture = 'https://964564277.github.io/xnh-3Dresume/src/jsm/stone.png';
 // 展板木头材质
-let woodTexture = './src/jsm/woodTexture.jpg';
+let woodTexture = 'https://964564277.github.io/xnh-3Dresume/src/jsm/woodTexture.jpg';
 
 // 文字图片地址
 let inputText = {};
-inputText.terpSolutionsText = './src/jsm/terp-solutions-text.png';
-inputText.activities = './src/jsm/activities_text.png';
-inputText.bagholderBetsText = './src/jsm/bagholderbets-text.png';
-inputText.homeSweetHomeText = './src/jsm/home-sweet-home-text.png';
-inputText.staticPortfolio = './src/jsm/static-portfolio.png';
-inputText.pcControl = './src/jsm/pc-control.png'
-inputText.mobileControl = './src/jsm/mobile-control.png'
-inputText.link = './src/jsm/link.png'
+inputText.terpSolutionsText = 'https://964564277.github.io/xnh-3Dresume/src/jsm/terp-solutions-text.png';
+inputText.activities = 'https://964564277.github.io/xnh-3Dresume/src/jsm/activities_text.png';
+inputText.bagholderBetsText = 'https://964564277.github.io/xnh-3Dresume/src/jsm/bagholderbets-text.png';
+inputText.homeSweetHomeText = 'https://964564277.github.io/xnh-3Dresume/src/jsm/home-sweet-home-text.png';
+inputText.staticPortfolio = 'https://964564277.github.io/xnh-3Dresume/src/jsm/static-portfolio.png';
+inputText.pcControl = 'https://964564277.github.io/xnh-3Dresume/src/jsm/pc-control.png'
+inputText.mobileControl = 'https://964564277.github.io/xnh-3Dresume/src/jsm/mobile-control.png'
+inputText.link = 'https://964564277.github.io/xnh-3Dresume/src/jsm/link.png'
 
 //SVG
 let SVG = {};
