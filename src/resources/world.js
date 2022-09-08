@@ -268,7 +268,6 @@ export const generateGalaxy = () => {
     'aRandomness',
     new THREE.BufferAttribute(randomness, 3)
   );
-
   /**
    * 自定义Material
    */
